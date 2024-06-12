@@ -28,7 +28,7 @@ This repository contains a Python script designed to scrape and collect informat
 
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/ayurvedic-companies-scraper.git
+git clone https://github.com/kunal654/ayurvedic-companies-scraper.git
 cd ayurvedic-companies-scraper
 ```
 
